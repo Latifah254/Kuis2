@@ -8,14 +8,7 @@
 </p>
 
 ## JOB SEEKER PLATFORM
-
-## 👥 Daftar Anggota Kelompok  
-
-- **1**: **Muhammad Amirun Nadhif** (3012310019)
-- **2**: **Rahmansyah Ragil Cahyadi** (3012310034)  
-- **3**: **Ruziqna Hadikafilardi Muhtarom** (3012310039)
-
-## 🚀 Tutorial Instalasi
+## Tutorial Instalasi
 
 ### 1. Clone Repository
 
